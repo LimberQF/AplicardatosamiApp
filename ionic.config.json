@@ -1,5 +1,7 @@
 {
   "name": "AplicardatosamiApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
